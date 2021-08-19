@@ -17,7 +17,7 @@
   "author": "wzpan <m@hahack.com> (https://github.com/wzpan)",
   "license": "MIT",
   "dependencies": {
-    "nunjucks": "^3.0.1",
+    "nunjucks": "^3.2.3",
     "utils-merge": "^1.0.0"
   },
   "bugs": {
